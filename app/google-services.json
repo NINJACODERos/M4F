@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156108045054",
+    "project_id": "m4fsongs",
+    "storage_bucket": "m4fsongs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156108045054:android:ac7659aae8b5d40c0bc3af",
+        "android_client_info": {
+          "package_name": "com.aman.M4FREE"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvoKdIBuv3HXwL9XMBaO6h3d4lgqQvNR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
