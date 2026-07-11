@@ -1,4 +1,10 @@
 <resources>
+    <!-- PVM branding -->
+    <string name="app_name">PRI.VIMUSIC</string>
+    <string name="app_creator">Aman Chaudhary</string>
+    <string name="app_creator_tagline">PVM — VIBE TUNED BY AMAN CHAUDHARY</string>
+    <string name="app_creator_contact">amankumarchaudhary7016@gmail.com</string>
+    
     <!-- Bottom navigation -->
     <string name="home">Home</string>
     <string name="songs">Songs</string>
